@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "What is your favorite color?",
+    "options": [
+      { "value": "red", "label": "Red" },
+      { "value": "blue", "label": "Blue" },
+      { "value": "green", "label": "Green" },
+      { "value": "yellow", "label": "Yellow" }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Which animal do you prefer?",
+    "options": [
+      { "value": "dog", "label": "Dog" },
+      { "value": "cat", "label": "Cat" },
+      { "value": "bird", "label": "Bird" },
+      { "value": "fish", "label": "Fish" }
+    ]
+  }
+]
